@@ -12,4 +12,6 @@ Ce repository GitHub reflète mon parcours d'apprentissage à travers mes diffé
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ! ✨
 
+Oh oui, j'ai résolu 50 problèmes de projet Euler 😎
+
 ![](https://projecteuler.net/profile/amine31.png)
