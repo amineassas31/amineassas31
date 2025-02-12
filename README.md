@@ -11,4 +11,3 @@ Salut, je suis Amine ! 🚀 Actuellement étudiant en développement web à l'[I
 Ce repository GitHub reflète mon parcours d'apprentissage à travers mes différents projets, qu'ils soient académiques ou personnels. Mon objectif est d'approfondir constamment mes connaissances en développement web et d'explorer de nouvelles technologies ! 🌱
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ! ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineassas31&show_icons=true&theme=radical)
