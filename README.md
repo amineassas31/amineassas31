@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub !
 
-Salut, je suis Amine ! 🚀 Actuellement étudiant en développement web à l'[IPI Toulouse](https://www.ipi-ecoles.com/campus-toulouse), je partage ici mes différents projets et mon parcours d'apprentissage dans le monde du développement.
+Salut, je suis Amine ! 🚀 Actuellement étudiant en développement web à l'[IPI Toulouse](https://www.ipi-ecoles.com/category/campus/toulouse/), je partage ici mes différents projets et mon parcours d'apprentissage dans le monde du développement.
 
 ## 🎯 À propos de moi
 
