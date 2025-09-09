@@ -1,17 +1,23 @@
-# 👋 Bienvenue sur mon GitHub !
+### Hi, I’m Amine Assas — currently studying Software Engineering at IPI Toulouse
+I use this space to showcase my projects in **software development**, **algorithms**, and **quantitative computing**.
 
-Salut, je suis Amine ! 🚀 Actuellement étudiant en développement web à l'[IPI Toulouse](https://www.ipi-ecoles.com/category/campus/toulouse/), je partage ici mes différents projets et mon parcours d'apprentissage dans le monde du développement.
 
-## 🎯 À propos de moi
+### 📂 What You’ll Find Here
 
-* 👨‍💻 Étudiant en développement web à l'IPI Toulouse
-* 💡 Passionné par le développement web, les langages de programmation et la conception logicielle
-* 🛠️ Activement impliqué dans des projets académiques, personnels et open source
+- Quantitative Projects 
+- Software Engineering Projects 
+- Algorithmic Problem-Solving
 
-Ce repository GitHub reflète mon parcours d'apprentissage à travers mes différents projets, qu'ils soient académiques ou personnels. Mon objectif est d'approfondir constamment mes connaissances en développement web et d'explorer de nouvelles technologies ! 🌱
-
-N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ! ✨
-
-Oh oui, j'ai résolu 50 problèmes de projet Euler 😎
+### Oh yes, I solved 50 **Project Euler** problems. 😎
 
 ![](https://projecteuler.net/profile/amine31.png)
+
+🤝 Let’s Connect
+
+🌐 [Portfolio](https://amineassas.vercel.app/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/amine-assas)
+
+✉️ <amineassas10@gmail.com>
+
+
